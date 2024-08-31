@@ -1,4 +1,5 @@
 # Demo Java Web App
+# Small changes added.
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
